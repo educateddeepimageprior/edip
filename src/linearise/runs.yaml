@@ -1,0 +1,8 @@
+pretrain_only_fbp:
+  path_to_data_9500: null
+  path_to_data_100: null
+  path_to_data_0: null
+no_pretrain_fbp:
+  path_to_data_9500: null
+  path_to_data_100: null
+  path_to_data_0: null
